@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
-title: "Analyzing Social Landscapes: Code Implementation"
+title: "Analyzing Social Landscapes: Visualizing the Key Elements of Social Media Dynamics - Code Implementation"
 version: "1.0.0"
 date-released: "2025-01-15"
 doi: "10.5281/zenodo.15933759"
@@ -11,19 +11,19 @@ authors:
   - family-names: "Dezhboro"
     given-names: "Amirhossein"
     orcid: "https://orcid.org/0000-0002-7141-5743"
-    affiliation: "Stevens Institute of Technology"
+    affiliation: "Stevens Institute of Technology, School of Engineering and Science"
   - family-names: "Babvey"
     given-names: "Pouria"
     orcid: "https://orcid.org/0000-0003-1719-3235"
-    affiliation: "Stevens Institute of Technology"
+    affiliation: "Stevens Institute of Technology, School of Engineering and Science"
   - family-names: "Lipizzi"
     given-names: "Carlo"
     orcid: "https://orcid.org/0000-0001-7888-3382"
-    affiliation: "Stevens Institute of Technology"
+    affiliation: "Stevens Institute of Technology, School of Engineering and Science"
   - family-names: "Ramirez-Marquez"
     given-names: "Jose Emmanuel"
     orcid: "https://orcid.org/0000-0002-0965-1446"
-    affiliation: "Stevens Institute of Technology"
+    affiliation: "Stevens Institute of Technology, School of Engineering and Science"
 keywords:
   - social media analysis
   - discourse trajectory inference
@@ -34,6 +34,10 @@ keywords:
   - pseudo-time analysis
   - node2vec
   - D3.js
+  - content-aware visualization
+  - Twitter analysis
+  - political spectrum mapping
+  - bioinformatics adaptation
 license: MIT
 abstract: >
   This repository contains the complete implementation for analyzing
@@ -41,7 +45,8 @@ abstract: >
   It includes Galaxy visualizations for content analysis and Discourse
   Trajectory Inference (DTI) adapted from bioinformatics for mapping
   socio-political spectrums. The code enables researchers to apply
-  these methodologies to their own social media datasets.
+  these methodologies to their own social media datasets. This represents
+  the first application of pseudo-time analysis in social media research.
 references:
   - type: article
     title: "Analyzing Social Landscapes: Visualizing the Key Elements of Social Media Dynamics"
@@ -54,4 +59,7 @@ references:
         given-names: "Carlo"
       - family-names: "Ramirez-Marquez"
         given-names: "Jose Emmanuel"
-    journal: TBD
+    journal: "Journal of LaTeX Class Files"
+    volume: 14
+    issue: 8
+    year: 2025
