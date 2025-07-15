@@ -4,6 +4,7 @@ type: software
 title: "Analyzing Social Landscapes: Code Implementation"
 version: "1.0.0"
 date-released: "2025-01-15"
+doi: "10.5281/zenodo.15933759"
 url: "https://github.com/amirhossein-dezhboro/Analyzing_Social_Landscapes_Paper"
 repository-code: "https://github.com/amirhossein-dezhboro/Analyzing_Social_Landscapes_Paper"
 authors:
@@ -33,7 +34,6 @@ keywords:
   - pseudo-time analysis
   - node2vec
   - D3.js
-doi: "10.5281/zenodo.15933759"
 license: MIT
 abstract: >
   This repository contains the complete implementation for analyzing
