@@ -1,0 +1,14 @@
+{
+  "name": "bdcecf05044fbb71",
+  "main": "bdcecf05044fbb71@241.js",
+  "version": "241.0.0",
+  "homepage": "https://observablehq.com/d/bdcecf05044fbb71",
+  "author": {
+    "name": "dezhboro visualizations",
+    "url": "https://observablehq.com/@dezhboronetworkvisualization"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
