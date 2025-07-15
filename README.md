@@ -110,7 +110,7 @@ If you use this code in your research, please cite:
 @article{dezhboro2025analyzing,
   title={Analyzing Social Landscapes: Visualizing the Key Elements of Social Media Dynamics},
   author={Dezhboro, Amirhossein and Babvey, Pouria and Lipizzi, Carlo and Ramirez-Marquez, Jose Emmanuel},
-  journal={Journal of LaTeX Class Files},
+  journal={TBD},
   volume={14},
   number={8},
   year={2025},
@@ -150,4 +150,4 @@ For questions or collaboration inquiries, please contact:
 ## Related Work
 
 For more details on the methodology and applications, see our comprehensive paper:
-> A. Dezhboro, P. Babvey, C. Lipizzi, and J. E. Ramirez-Marquez, "Analyzing Social Landscapes: Visualizing the Key Elements of Social Media Dynamics," *Journal of LaTeX Class Files*, vol. 14, no. 8, 2025.
+> A. Dezhboro, P. Babvey, C. Lipizzi, and J. E. Ramirez-Marquez, "Analyzing Social Landscapes: Visualizing the Key Elements of Social Media Dynamics," TBD
