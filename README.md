@@ -2,11 +2,19 @@
 
 [![DOI](https://zenodo.org/badge/996174407.svg)](https://doi.org/10.5281/zenodo.15933759)
 
-This repository contains the complete implementation for the paper "Analyzing Social Landscapes: Visualizing the Key Elements of Social Media Dynamics" by Amirhossein Dezhboro, Pouria Babvey, Carlo Lipizzi, and Jose Emmanuel Ramirez-Marquez.
+**Authors:** Amirhossein Dezhboro, Pouria Babvey, Carlo Lipizzi, Jose Emmanuel Ramirez-Marquez  
+**Affiliation:** Stevens Institute of Technology  
+**Publication:** Journal of LaTeX Class Files, Vol. 14, No. 8, 2025  
+**DOI:** [10.5281/zenodo.15933759](https://doi.org/10.5281/zenodo.15933759)
 
 ## Abstract
 
-Social media provides valuable insights into societal opinions and user interactions. This repository implements a dual social landscape framework that combines Galaxy visualizations for content analysis and Discourse Trajectory Inference (DTI) for mapping socio-political spectrums.
+This repository contains the complete implementation for the paper "Analyzing Social Landscapes: Visualizing the Key Elements of Social Media Dynamics." We introduce a methodology to analyze social structure through social landscapes using two comprehensive approaches: Galaxy visualizations for content analysis and Discourse Trajectory Inference (DTI) for mapping socio-political spectrums. This represents the first adaptation of pseudo-time analysis from bioinformatics to social media research.
+
+## Keywords
+
+social media analysis, discourse trajectory inference, galaxy visualization, social landscapes, network analysis, computational social science, pseudo-time analysis, node2vec, D3.js, content-aware visualization
+
 
 ## Features
 
