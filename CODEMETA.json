@@ -1,0 +1,96 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "identifier": "10.5281/zenodo.15933759",
+  "name": "Analyzing Social Landscapes: Code Implementation",
+  "version": "1.0.0",
+  "description": "Complete implementation for analyzing social media dynamics through dual social landscape frameworks. Includes Galaxy visualizations for content analysis and Discourse Trajectory Inference (DTI) adapted from bioinformatics for mapping socio-political spectrums.",
+  "applicationCategory": "Social Media Analysis",
+  "releaseNotes": "Initial release of the social landscapes analysis framework",
+  "funding": "Stevens Institute of Technology",
+  "developmentStatus": "active",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "social media analysis",
+    "discourse trajectory inference", 
+    "galaxy visualization",
+    "social landscapes",
+    "network analysis",
+    "computational social science",
+    "pseudo-time analysis",
+    "node2vec",
+    "D3.js",
+    "Twitter analysis"
+  ],
+  "programmingLanguage": [
+    "Python",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  "runtimePlatform": [
+    "Python 3.7+",
+    "Jupyter Notebook",
+    "Web Browser"
+  ],
+  "targetProduct": {
+    "@type": "CommandLineApplication",
+    "name": "Social Landscapes Analysis Toolkit"
+  },
+  "url": "https://github.com/amirhossein-dezhboro/Analyzing_Social_Landscapes_Paper",
+  "codeRepository": "https://github.com/amirhossein-dezhboro/Analyzing_Social_Landscapes_Paper",
+  "issueTracker": "https://github.com/amirhossein-dezhboro/Analyzing_Social_Landscapes_Paper/issues",
+  "license": "https://spdx.org/licenses/MIT",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Amirhossein",
+      "familyName": "Dezhboro",
+      "@id": "https://orcid.org/0000-0002-7141-5743",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Stevens Institute of Technology"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Pouria", 
+      "familyName": "Babvey",
+      "@id": "https://orcid.org/0000-0003-1719-3235",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Stevens Institute of Technology"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Carlo",
+      "familyName": "Lipizzi", 
+      "@id": "https://orcid.org/0000-0001-7888-3382",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Stevens Institute of Technology"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Jose Emmanuel",
+      "familyName": "Ramirez-Marquez",
+      "@id": "https://orcid.org/0000-0002-0965-1446", 
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Stevens Institute of Technology"
+      }
+    }
+  ],
+  "maintainer": {
+    "@type": "Person", 
+    "givenName": "Amirhossein",
+    "familyName": "Dezhboro",
+    "email": "adezhbor@stevens.edu",
+    "@id": "https://orcid.org/0000-0002-7141-5743"
+  },
+  "dateCreated": "2025-01-15",
+  "dateModified": "2025-01-15",
+  "datePublished": "2025-01-15"
+}
