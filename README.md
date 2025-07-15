@@ -1,6 +1,6 @@
 # Analyzing Social Landscapes: Visualizing the Key Elements of Social Media Dynamics
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15933759.svg)](https://doi.org/10.5281/zenodo.15933759)
 
 This repository contains the complete implementation for the paper "Analyzing Social Landscapes: Visualizing the Key Elements of Social Media Dynamics" by Amirhossein Dezhboro, Pouria Babvey, Carlo Lipizzi, and Jose Emmanuel Ramirez-Marquez.
 
@@ -121,7 +121,7 @@ If you use this code in your research, please cite:
   author = {Dezhboro, Amirhossein and Babvey, Pouria and Lipizzi, Carlo and Ramirez-Marquez, Jose Emmanuel},
   title = {Analyzing Social Landscapes: Code Implementation},
   url = {https://github.com/amirhossein-dezhboro/Analyzing_Social_Landscapes_Code_Implementation},
-  doi = {10.5281/zenodo.XXXXXXX},
+  doi = {10.5281/zenodo.15933760},
   year = {2025}
 }
 ```
