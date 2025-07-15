@@ -110,11 +110,7 @@ If you use this code in your research, please cite:
 @article{dezhboro2025analyzing,
   title={Analyzing Social Landscapes: Visualizing the Key Elements of Social Media Dynamics},
   author={Dezhboro, Amirhossein and Babvey, Pouria and Lipizzi, Carlo and Ramirez-Marquez, Jose Emmanuel},
-  journal={TBD},
-  volume={14},
-  number={8},
-  year={2025},
-  publisher={IEEE}
+  journal={TBD}
 }
 
 @software{dezhboro2025code,
