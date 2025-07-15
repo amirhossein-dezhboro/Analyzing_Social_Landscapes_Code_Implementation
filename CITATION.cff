@@ -33,6 +33,7 @@ keywords:
   - pseudo-time analysis
   - node2vec
   - D3.js
+doi: "10.5281/zenodo.15933759"
 license: MIT
 abstract: >
   This repository contains the complete implementation for analyzing
@@ -53,7 +54,4 @@ references:
         given-names: "Carlo"
       - family-names: "Ramirez-Marquez"
         given-names: "Jose Emmanuel"
-    journal: "Journal of LaTeX Class Files"
-    volume: 14
-    issue: 8
-    year: 2025
+    journal: TBD
