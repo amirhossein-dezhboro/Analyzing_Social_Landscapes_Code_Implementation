@@ -120,7 +120,7 @@ If you use this code in your research, please cite:
 @software{dezhboro2025code,
   author = {Dezhboro, Amirhossein and Babvey, Pouria and Lipizzi, Carlo and Ramirez-Marquez, Jose Emmanuel},
   title = {Analyzing Social Landscapes: Code Implementation},
-  url = {https://github.com/amirhossein-dezhboro/Analyzing_Social_Landscapes_Paper},
+  url = {https://github.com/amirhossein-dezhboro/Analyzing_Social_Landscapes_Code_Implementation},
   doi = {10.5281/zenodo.XXXXXXX},
   year = {2025}
 }
