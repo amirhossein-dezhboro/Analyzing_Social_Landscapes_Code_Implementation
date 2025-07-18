@@ -21,7 +21,7 @@ NOTE: Currently the full working code is not available here until the paper is p
 
 ## Features
 
-- **Galaxy Visualization**: D3.js-based interactive visualizations for analyzing conversation networks
+- **Galaxy Visualization**: D3.js-based interactive visualizations for analyzing conversation networks . Please note that you can also use the observable notebooks for the JS visuals.(https://observablehq.com/d/bdcecf05044fbb71)
 - **Discourse Trajectory Inference (DTI)**: First adaptation of pseudo-time analysis from bioinformatics to social media analysis
 - **Content-Aware Analysis**: NLP integration for sentiment, topic, and stance detection
 - **Leanness Metric**: Novel quality measure for conversation assessment
